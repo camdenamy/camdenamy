@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camdenamy
 - 👀 I’m interested in ... web and app development
-- 🌱 I’m currently learning ... CS50x
+- 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ... learning web and app development
 - 📫 How to reach me ... camdenamy99@gmail.com
 
